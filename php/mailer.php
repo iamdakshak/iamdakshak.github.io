@@ -4,5 +4,5 @@
   $txt = "Mail from : <b> ".$_REQUEST['name']." </b>\r\n".$_REQUEST['txt'];
   $headers = "From: ".$_POST['email']."\r\nCC: ".$_REQUEST['email'];
   mail($to,$subject,$txt,$headers);
-  header("location: http://dakshak.ooo");
+  header("location: https://dakshaknagrale.in");
  ?>
