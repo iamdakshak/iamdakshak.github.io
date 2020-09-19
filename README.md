@@ -1,7 +1,7 @@
 # iamdakshak.github.io
 
 <h3>Linkedin</h3>
-<a href="https://www.linkedin.com/in/dakshak/" target="_blank"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png" width="42"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/dakshak/"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png" width="42"/></a>
 
 ___
 
